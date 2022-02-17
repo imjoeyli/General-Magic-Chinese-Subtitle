@@ -1,6 +1,7 @@
 # 字幕下载 & 使用
 * 直接点此[下载 SRT 文件](https://github.com/JJYing/General-Magic-Chinese-Subtitle/releases/download/0.9/General.Magic.srt)
-* 仅适配某个你能「找到」的 7 GB 出头的版本
+  * 仅适配某个你能「找到」的 7 GB 出头的版本
+* 点此[下载适配无片头广告的 1:32:57 时长版本 SRT 文件](https://github.com/imjoeyli/General-Magic-Chinese-Subtitle/raw/main/General.Magic_forNoAdsEdition.srt)
 
 # 为什么要翻译这个字幕？
 很早就想看《[General Magic](https://movie.douban.com/subject/27073244/)》这部纪录片，但因为没有中文字幕就一直搁置了，直到最近看了一部类似的片子，The Verge 出品的《[Springboard: the secret history of the first real smartphone](https://www.youtube.com/watch?v=b9_Vh9h3Ohw)》，看得很有感触很喜欢，就又翻出来《General Magic》对着英文字幕看了一遍。
