@@ -1,3 +1,5 @@
+原作者：[JJ Ying](https://github.com/JJYing/General-Magic-Chinese-Subtitle)，在保持 JJ Ying 翻译内容的基础上，增加了适配无片头广告版本 SRT 文件。
+
 # 字幕下载 & 使用
 * 点此[下载适配有片头广告版本 SRT 文件](https://github.com/JJYing/General-Magic-Chinese-Subtitle/releases/download/0.9/General.Magic.srt)（视频时长：1:33:33）
 * 点此[下载适配无片头广告版本 SRT 文件](https://github.com/imjoeyli/General-Magic-Chinese-Subtitle/raw/main/General.Magic_forNoAdsEdition.srt)（视频时长：1:32:57）
